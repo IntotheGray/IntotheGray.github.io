@@ -1,4 +1,4 @@
 # IntotheGray.github.io
 ---
-permalink: /index.html
+permalink: /export.html
 ---
