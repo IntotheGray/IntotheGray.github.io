@@ -1,4 +1,4 @@
 # IntotheGray.github.io
 ---
-permalink: /export.html
+permalink: /fragmap.html
 ---
