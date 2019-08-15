@@ -1,4 +1,4 @@
 # IntotheGray.github.io
 ---
-permalink: /fragmap.html
+permalink: https://intothegray.github.io/fragmap.html
 ---
